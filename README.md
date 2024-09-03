@@ -14,6 +14,9 @@ The Advanced Shopping Cart demonstrates how to create a shopping cart interface 
 
 The data used in this project is populated from a JSON file.
 
+![Store Page Screenshot](public/screenshots/screenshot_1.png)
+![Cart Screenshot](public/screenshots/screenshot_2.png)
+
 ## Tech Stack
 
 -   **React**: A JavaScript library for building user interfaces.
